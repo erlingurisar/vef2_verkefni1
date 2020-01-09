@@ -3,3 +3,8 @@ cd - change directory færa um möppu
 ls - list directory skoða möppu 
 pwd - print working direcroty 
 mkdir - make direcroty búa til nýja möppu
+
+Hvað gera eftirfarandi Git skipanir?
+git clone- clona möppu af github eða copy annað
+git status-  
+git diff-
