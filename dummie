@@ -4,7 +4,12 @@ ls - list directory skoða möppu
 pwd - print working direcroty 
 mkdir - make direcroty búa til nýja möppu
 
-Hvað gera eftirfarandi Git skipanir?
+2.Hvað gera eftirfarandi Git skipanir?
 git clone- clona möppu af github eða copy annað
-git status-  
-git diff-
+git status- til að téka statusinn á working directory 
+git diff- sínir breytingum á milli comit 
+
+3.Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
+git log- getur séð gamlar commends í Git
+git checkout- útilokar eina file frá örðum greinum 
+git branch- Git branches are effectively a pointer to a snapshot of your changes.
