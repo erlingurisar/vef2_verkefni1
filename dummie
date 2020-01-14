@@ -9,7 +9,8 @@ git clone- clona möppu af github eða copy annað
 git status- til að téka statusinn á working directory 
 git diff- sínir breytingum á milli comit 
 
-3.Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
+3.
+Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
 git log- getur séð gamlar commends í Git
 git checkout- útilokar eina file frá örðum greinum 
 git branch- Git branches are effectively a pointer to a snapshot of your changes.
@@ -17,3 +18,18 @@ git branch- Git branches are effectively a pointer to a snapshot of your changes
 4.
 Version control is a system that records changes to a file or set of files over time
  so that you can recall specific versions later.
+5.
+GIT lausnin sem hér er kynnt, er hönnuð á annan hátt og er byggð upp á gagnadreifingu (Distribution Version Control). Ólíkt öðrum kerfum getur Git séð um útgáfustjórn án viðkomu gagnamiðils (server).
+
+Git er hugbúnaður sem búinn var til af Linus Torvalds,
+ höfundi Linux stýrikerfisins. Linus bjó til Git til að sjá um útgáfustjórn fyrir Linux kernelinn,
+ en gaf það svo út á endanum til almennings.
+ Git er í dag vinsælasta kerfið til að sjá um útgáfustjórnun.
+6.
+maðer á að setja commit eftir hverja spurningu 
+7.
+In computing, the working directory of a process is a directory of a hierarchical file system,
+ if any, dynamically associated with each process.
+  It is sometimes called the current working directory (CWD), e.g. the BSD getcwd(3) function,
+ or just current directory.
+ 
